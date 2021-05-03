@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render table wrapped by pagination 1`] = `
+<div>
+  <div
+    data-testid="pagination"
+  >
+    <table
+      data-testid="table"
+    />
+  </div>
+</div>
+`;

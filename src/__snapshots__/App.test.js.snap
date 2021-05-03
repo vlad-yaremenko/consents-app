@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render DefaultLayout with routes 1`] = `
+<div>
+  <div
+    data-testid="default-layout"
+  >
+    <p
+      data-testid="routes"
+    >
+      Routes
+    </p>
+  </div>
+</div>
+`;

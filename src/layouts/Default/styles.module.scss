@@ -1,0 +1,9 @@
+$drawerWidth: 300px;
+
+.drawer {
+  width: $drawerWidth;
+}
+.content {
+  width: calc(100% - #{$drawerWidth});
+  margin-left: $drawerWidth;
+}
